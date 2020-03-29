@@ -5,7 +5,12 @@
   "license": "MIT",
   "dependencies": {
     "@jshawl/yslow": "3.1.9-brotli",
-    "jsdom": "^16.2.1"
+    "jsdom": "^16.2.1",
+    "yslow": "^3.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "devDependencies": {
     "jest": "^25.2.3"
