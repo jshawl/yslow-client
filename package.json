@@ -1,0 +1,13 @@
+{
+  "name": "yslow-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@jshawl/yslow": "3.1.9-brotli",
+    "jsdom": "^16.2.1"
+  },
+  "devDependencies": {
+    "jest": "^25.2.3"
+  }
+}
